@@ -31,6 +31,7 @@ public class MainApplication extends Application implements ReactApplication {
         @Override
         protected String getJSMainModuleName() {
           return "index";
+          pass "admin123#"
         }
 
         @Override
